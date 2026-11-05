@@ -1,1 +1,4 @@
 # Final_RL
+# Topic: KEY-DOOR GRID WORLD
+# STUDENT: Tran The Anh
+# STUDENT ID: 24100707
